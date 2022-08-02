@@ -1,0 +1,41 @@
+body{
+    margin:5%,10%;
+    width: 100%;
+    background-color: rgb(56, 14, 90);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    font-weight: 100;
+    color: aliceblue;
+}
+.first,.second{
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+}
+
+.b{
+    height: 15rem;
+    width: 15rem;
+    padding: 10px;
+    border: 8px solid #0f0f0f;
+    border-radius: 15px;
+    margin:20px;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blueviolet;
+}
+#yellow{
+    background-color: yellow;
+}
